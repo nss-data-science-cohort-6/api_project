@@ -2,7 +2,7 @@
 
 ### Part 1 - Data Gathering using APIs
 
-1. A dataset containing details about Metro Nashville Police Department reported incidents is available at https://data.nashville.gov/Police/Metro-Nashville-Police-Department-Incidents/2u6v-ujjs. Make use of the API to find all aggravated burglary incidents () that were reported during the six month period from January 1, 2022 through September 30, 2021. (**Hint:** Check out the [API Docs](https://dev.socrata.com/foundry/data.nashville.gov/2u6v-ujjs) to see how to narrow down the response to just the desired results).
+1. A dataset containing details about Metro Nashville Police Department reported incidents is available at https://data.nashville.gov/Police/Metro-Nashville-Police-Department-Incidents/2u6v-ujjs. Make use of the API to find all aggravated burglary incidents () that were reported during the nine month period from January 1, 2022 through September 30, 2021. (**Hint:** Check out the [API Docs](https://dev.socrata.com/foundry/data.nashville.gov/2u6v-ujjs) to see how to narrow down the response to just the desired results).
 
 2. Using the [2020 American Community Survey API](https://www.census.gov/data/developers/data-sets/acs-5year.html), obtain, for each census tract, the population (B01001_001E in the detailed tables) and the median income (S1901_C01_012E in the subject tables). Hint: Tennessee's FIPS code is 47 and Davidson County's FIPS code is 37. 
 
